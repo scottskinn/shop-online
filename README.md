@@ -1,2 +1,3 @@
 # shop-online
-Redux project usong React
+
+Redux project using React
