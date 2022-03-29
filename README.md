@@ -1,6 +1,5 @@
 # Shop-Online
 
-
 ## Table of Contents
 
 - [Description](#description)
